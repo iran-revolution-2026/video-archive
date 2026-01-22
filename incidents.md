@@ -86,6 +86,100 @@
 
 ---
 
+### Jan 8 – Kerman
+**Description**: Video appears to show a young protester lying motionless inside a vehicle after being shot; no movement is visible.<br>
+**Source**: https://x.com/ManotoNews/status/2014376304183771503<br>
+**Archived**:
+
+---
+
+### Jan 8 – NasimShahr, Tehran
+**Description**: Video appears to show multiple deceased individuals lying inside a clinic; no movement is visible among those shown.<br>
+**Source**: https://x.com/Vahid/status/2014053923506565319<br>
+**Archived**:
+
+---
+
+### Jan 8 – NasimShahr, Tehran
+**Description**: Video appears to show a protester lying motionless in the street after being shot; blood is visible.<br>
+**Source**: https://x.com/Vahid/status/2014038582210552317<br>
+**Archived**:
+
+---
+
+### Jan 8 – Narmak, Tehran
+**Description**: Video appears to show a man and a woman lying motionless in the street with visible gunshot injuries; one appears to have sustained a facial wound.<br>
+**Source**: https://x.com/Vahid/status/2013765275380818048<br>
+**Archived**:
+
+---
+
+### Jan 8 – Bandar Abbas
+**Description**: Video shows armed security personnel striking a wounded individual lying on the ground with an object that appears to be a blunt or edged tool; the individual does not appear to resist.<br>
+**Source**: https://x.com/Vahid/status/2013745353409937813<br>
+**Archived**:
+
+---
+
+### Jan 8 – Fardis, Alborz
+**Description**: Video appears to show a protester lying motionless in the street with a visible gunshot wound to the head.<br>
+**Source**: https://x.com/Vahid/status/2013703261337874836<br>
+**Archived**:
+
+---
+
+### Jan 8 – Neyriz
+**Description**: Video shows security forces firing live ammunition toward a group of people in a public area; individuals are seen fleeing the scene.<br>
+**Source**: https://x.com/mojtabapourbakh/status/2013556180677808453<br>
+**Archived**:
+
+---
+
+### Jan 8 – Saveh
+**Description**: Video shows plainclothes armed individuals firing weapons at close range toward protesters standing nearby.<br>
+**Source**: https://x.com/ManotoNews/status/2013709582980333601<br>
+**Archived**:
+
+---
+
+### Jan 8 – Tehran
+**Description**: Video shows security forces firing weapons from the rooftop of a police station toward the street below; gunfire is audible.<br>
+**Source**: https://x.com/IHRights/status/2013604544190832851<br>
+**Archived**:
+
+---
+
+### Jan 8 – Gharchak
+**Description**: Video shows several people carrying an individual who appears to be seriously injured or deceased after sustaining gunshot wounds.<br>
+**Source**: https://x.com/IranIntl/status/2013656218418450790<br>
+**Archived**:
+
+---
+
+### Jan 9 – NasimShahr, Tehran
+**Description**: Video shows multiple individuals lying on the street with visible gunshot injuries, including facial wounds; others are seen attempting to provide assistance.<br>
+**Source**: https://x.com/BabakTaghvaee1/status/2014075836630962188<br>
+**Archived**:
+
+---
+
+### Jan 9 – ShahinShahr, Isfahan
+**Description**: Video appears to show an armed individual positioned on the rooftop of the Negarestan municipal building, consistent with a sniper position.<br>
+**Source**: https://x.com/FattahiFarzad/status/2013219741897253012<br>
+**Archived**:
+
+---
+
+### Jan 9 – Neyshabur
+**Description**: Videos appear to show a teenage individual being shot while running through an alley; sources identify the victim as a 17-year-old named Bahareh Shadmehri. The individual collapses immediately.<br>
+**Sources**: https://x.com/FattahiFarzad/status/2014272738437787868<br>
+https://x.com/radiojibi/status/2014315998266937605<br>
+https://x.com/iliaaaa66/status/2014285419068674179<br>
+https://x.com/ISefati/status/2014105113078419577<br>
+**Archived**:
+
+---
+
 ### Jan 9 - Yazdanshahr, Isfahan
 **Description**: Video shows heavily armed security forces patrolling streets and firing weapons; large-caliber DShK machine guns are visible.<br>
 **Source**: https://x.com/ManotoNews/status/2013522080050860134<br>
@@ -107,6 +201,20 @@
 
 ---
 
+### Date unspecified – Tehran
+**Description**: Video appears to show a deceased protester lying on the street with no visible movement.<br>
+**Source**: https://x.com/NiohBerg/status/2013719806617268488<br>
+**Archived**:
+
+---
+
+### Date & location unspecified
+**Description**: Video shows fully armored security forces beating an unarmed, wounded individual lying on the ground and subsequently carrying the person away.<br>
+**Source**: https://x.com/hidden7074/status/2013648106374549580<br>
+**Archived**:
+
+---
+
 ### Date & Location unspecified
 **Description**: Video shows armed individuals patrolling streets and firing shots while chanting slogans expressing support for Khamenei in Arabic.<br>
 **Source**: https://x.com/NiohBerg/status/2013614576420467048<br>
@@ -125,5 +233,3 @@
 **Description**: Video appears to show multiple deceased bodies laid closely together inside a hospital setting; no movement is visible among the individuals shown.<br>
 **Source**: https://x.com/NoaMagid/status/2013495380952900055<br>
 **Archived:**
-
----
