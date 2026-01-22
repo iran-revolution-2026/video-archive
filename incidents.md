@@ -44,13 +44,6 @@
 
 ---
 
-### Date unspecified - Isfahan
-**Description**: Photos show injured protesters inside a hospital; visible blood and serious injuries are present.<br>
-**Source**: https://x.com/Vahid/status/2012970503523143940<br>
-**Archived:**
-
----
-
 ### Jan 8 - Taghe bostan, Kermanshah
 **Description**: Video shows a protester recording a video shortly before gunfire is heard; collapsing and indicating the individual was fatally shot.<br>
 **Source**: https://x.com/ManotoNews/status/2013382959580012811<br>
@@ -194,17 +187,24 @@ https://x.com/ISefati/status/2014105113078419577<br>
 
 ---
 
-### Date & Location unspecified
-**Description**: Video shows the body of a protester lying on the ground with no visible movement; no medical assistance is seen at the time of recording.<br>
-**Source**: https://x.com/NiohBerg/status/2013583874085769424<br>
-**Archived:**
-
----
-
 ### Date unspecified – Tehran
 **Description**: Video appears to show a deceased protester lying on the street with no visible movement.<br>
 **Source**: https://x.com/NiohBerg/status/2013719806617268488<br>
 **Archived**:
+
+---
+
+### Date unspecified - Isfahan
+**Description**: Photos show injured protesters inside a hospital; visible blood and serious injuries are present.<br>
+**Source**: https://x.com/Vahid/status/2012970503523143940<br>
+**Archived:**
+
+---
+
+### Date unspecified - Tehranpars Hospital, Tehran 
+**Description**: Video appears to show multiple deceased bodies laid closely together inside a hospital setting; no movement is visible among the individuals shown.<br>
+**Source**: https://x.com/NoaMagid/status/2013495380952900055<br>
+**Archived:**
 
 ---
 
@@ -229,7 +229,8 @@ https://x.com/ISefati/status/2014105113078419577<br>
 
 ---
 
-### Date unspecified - Tehranpars Hospital, Tehran 
-**Description**: Video appears to show multiple deceased bodies laid closely together inside a hospital setting; no movement is visible among the individuals shown.<br>
-**Source**: https://x.com/NoaMagid/status/2013495380952900055<br>
+### Date & Location unspecified
+**Description**: Video shows the body of a protester lying on the ground with no visible movement; no medical assistance is seen at the time of recording.<br>
+**Source**: https://x.com/NiohBerg/status/2013583874085769424<br>
 **Archived:**
+
