@@ -149,6 +149,49 @@
 
 ---
 
+### Jan 8 - Babol
+**Description**: Video appears to show a protester lying motionless on the street after being shot; a bystander is heard shouting that the individual has been killed.<br>
+**Source**: https://x.com/Vahid/status/2014720957835780453<br>
+**Archived**:
+
+---
+
+### Jan 8 - Arak
+**Description**: Video appears to show a woman who has been fatally shot; accompanying reports state that she was the mother of two.<br>
+**Source**: https://x.com/ManotoNews/status/2014713329776787521<br>
+**Archived**:
+
+---
+
+### Jan 8 - Talesh, Gilan
+**Description**: Video appears to show an individual identified by sources as 24-year-old "Matin Khosravi" who has been fatally shot.<br>
+**Source**: https://x.com/caljon2025/status/2014653877480575461<br>
+https://x.com/indypersian/status/2014166475318186434<br>
+**Archived**:
+
+---
+
+### Jan 8 - Tehran
+**Description**: Video shows armed security personnel pursuing and striking an unarmed woman as she attempts to flee; the woman falls to the ground; is kicked in the head multiple times and is subsequently taken away.<br>
+**Source**: https://x.com/mhdavimehrdad/status/2014626126744715274<br>
+**Archived**:
+
+---
+
+### Jan 8 - Salsabil, Tehran
+**Description**: Video shows a protester lying on the ground with a gunshot wound and significant bleeding while others attempt to stop the bleeding.<br>
+**Source**: https://x.com/Vahid/status/2014406831016177699<br>
+**Archived**:
+
+---
+
+### Jan 8 - Qorveh
+**Description**: Video appears to show a 12-year-old child identified as "Taher Malekshahi" with multiple pellet-gun wounds to the face, neck, and body sustained at close range.<br>
+**Source**: https://x.com/Ario1401/status/2014657004480966785<br>
+**Archived**:
+
+---
+
 ### Jan 9 – NasimShahr, Tehran
 **Description**: Video shows multiple individuals lying on the street with visible gunshot injuries, including facial wounds; others are seen attempting to provide assistance.<br>
 **Source**: https://x.com/BabakTaghvaee1/status/2014075836630962188<br>
@@ -208,6 +251,20 @@ https://x.com/ISefati/status/2014105113078419577<br>
 
 ---
 
+### Date unspecified - Tehranpars Hospital, Tehran
+**Description**: Videos appear to show the same individual: in one, no head wound is visible, while in the other, recorded in a hospital setting, a gunshot wound to the forehead is visible. Many report that wounded individuals have been shot execution-style in hospitals.<br>
+**Source**: https://x.com/justchangingun/status/2014464072763506791<br>
+**Archived**:
+
+---
+
+### Date unspecified - Shiraz
+**Description**: Video appears to show the body of an individual identified as "Sam Rezaee" being carried by others; accompanying reports state that this footage shows his final moments.<br>
+**Source**: https://x.com/SFaeze_Alavi/status/2014619281267319183<br>
+**Archived**:
+
+---
+
 ### Date & location unspecified
 **Description**: Video shows fully armored security forces beating an unarmed, wounded individual lying on the ground and subsequently carrying the person away.<br>
 **Source**: https://x.com/hidden7074/status/2013648106374549580<br>
@@ -234,3 +291,23 @@ https://x.com/ISefati/status/2014105113078419577<br>
 **Source**: https://x.com/NiohBerg/status/2013583874085769424<br>
 **Archived:**
 
+---
+
+### Date & Location unspecified
+**Description**: Photos appear to show several protesters with visible gunshot wounds to the head.<br>
+**Source**: https://x.com/Vahid/status/2014496474617274398<br>
+**Archived**:
+
+---
+
+### Date - Location unspecified
+**Description**: Photos appear to show a young woman identified by sources as "Faeze Mostaan" lying deceased with a visible gunshot wound while being held by her mother. Many reports state that injured individuals avoid hospitals due to fear of arrest.<br>
+**Source**: https://x.com/ariaTis223243/status/2014463189816377779<br>
+**Archived**:
+
+---
+
+### Date & Location unspecified
+**Description**: Photo appears to show a protester lying on the ground deceased with significant bleeding from the back of the head.<br>
+**Source**: https://x.com/NoaMagid/status/2014429139130777970<br>
+**Archived**:
