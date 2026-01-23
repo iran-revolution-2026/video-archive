@@ -192,6 +192,13 @@ https://x.com/indypersian/status/2014166475318186434<br>
 
 ---
 
+### Jan 8 - Gorgan
+**Description**: Video shows a civilian who appears wounded or killed, transported in a wheelbarrow.<br>
+**Source**: https://x.com/Vahid/status/2014751709864644738<br>
+**Archived**:
+
+---
+
 ### Jan 9 – NasimShahr, Tehran
 **Description**: Video shows multiple individuals lying on the street with visible gunshot injuries, including facial wounds; others are seen attempting to provide assistance.<br>
 **Source**: https://x.com/BabakTaghvaee1/status/2014075836630962188<br>
